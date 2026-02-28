@@ -1,6 +1,6 @@
-SQL Data Cleaning Project — Layoffs Dataset <br>
-A practical SQL project that demonstrates how to transform messy, real-world data into clean, analysis-ready tables using MySQL. This repository focuses on reproducible data cleaning patterns you can reuse in analytics, reporting, and application backends. <br>
-Project Overview <br>
+SQL Data Cleaning Project — Layoffs Dataset <br><br>
+A practical SQL project that demonstrates how to transform messy, real-world data into clean, analysis-ready tables using MySQL. This repository focuses on reproducible data cleaning patterns you can reuse in analytics, reporting, and application backends. <br><br>
+<b>Project Overview</b>: <br><br>
 Purpose: <br>
 To showcase end-to-end data cleaning using pure SQL on a real layoffs dataset. <br>
 
